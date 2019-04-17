@@ -1,4 +1,4 @@
 # Tank-Race
 
-<img src="Screens/MainMenu.png">
+<img src="Screens/MainMenu.PNG">
 
